@@ -1,0 +1,14 @@
+.cov {
+    height: 100%;
+}
+
+.main {
+    margin: 3rem auto;
+    width: 90%;
+    max-width: 40rem;
+}
+
+.back {
+    height: 100%;
+    background-color: rgba(122, 63, 63, 0.411);
+}

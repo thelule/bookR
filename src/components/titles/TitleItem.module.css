@@ -1,0 +1,19 @@
+.item {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.favBtn {
+    background-color: #fd666686;
+    border: black .2rem;
+    color: rgba(5, 2, 2, 0.678);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: x-large;
+    margin: 4px 2px;
+    cursor: pointer;
+}
